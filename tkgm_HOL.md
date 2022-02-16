@@ -8,7 +8,7 @@
 * SSH Terminal (windows Putty, macOS Terminal 등
 
 ## Courses
-1. [Tanzu 및 TKG 소개](tkg/0.introduction/)
+1. [Tanzu 및 TKG 소개](tkgm/0.introduction/)
 1. [TKGm 플랫폼 배포 및 설정](tkgm/1.TKGm-provisioning-setting/)
 1. [Cluster 관리](tkgm/2.cluster-management/)
 1. [애플리케이션 배포](tkgm/3.application-deployment/)

@@ -16,4 +16,4 @@
 ## Hands-On 순서
 
 1. [Tanzu Portfolio 소개](./TanzuPortfolio_overview.md)
-2. [vSphere with Tanzu Hands-On-Lab](./tkgm_HOL.md)%
+2. [vSphere with Tanzu Hands-On-Lab](./tkgm_HOL.md)
